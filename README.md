@@ -4,7 +4,6 @@
 ![alt text](image.png)
 
 
-# React + Vite + AG grid
 ## 도시별 평균 강우량 그래프
 
 ![alt text](image-1.png)
